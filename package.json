@@ -1,0 +1,32 @@
+{
+  "name": "shoppers_assistant",
+  "version": "1.0.0",
+  "description": "this is a messaging service that will serve as a shoppers assistant",
+  "main": "response_sms.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "twilio": "^3.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinityinstore/twilio5.git"
+  },
+  "keywords": [
+    "shopper's",
+    "assistant",
+    "sms",
+    "messaging",
+    "service"
+  ],
+  "author": "George Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinityinstore/twilio5/issues"
+  },
+  "homepage": "https://github.com/trinityinstore/twilio5#readme"
+}
